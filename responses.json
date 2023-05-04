@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "prompt": [{
+            "id": 1,
+            "content": "hello"
+        },
+        {
+            "id": 2,
+            "content": "hi"
+        }
+    ],
+        "answers": [{
+            "id": 1,
+            "content": "Hello, How can i help you today?"
+        },
+        {
+            "id": 2,
+            "content": "Hey! What brings you today?"
+        },
+        {
+            "id": 3,
+            "content": "Oh hello! Do you need any help?"
+        }
+    ]
+    },
+    {
+        "id": 2,
+        "prompt": "tell me a joke",
+        "answers": [
+            {
+                "id": 1,
+                "content": "How do you know if your wine was made in the 90's? It smells like teen spirit."
+            },
+            {
+                "id": 2,
+                "content": "What did the rock do when it rolled down the road? It rock and rolled."
+            },
+            {
+                "id": 3,
+                "content": "Why was the musician arrested? He got in treble."
+            },
+            {
+                "id": 4,
+                "content": "What does a sheep call a film it doesn't like? a baaahhhd movie."
+            },
+            {
+                "id": 5,
+                "content": "Why does Facebook buys Instagram for one billion?? I mean, They could have downloaded it from the app store for free.."
+            },
+            {
+                "id": 6,
+                "content": "Now what's on the menu? Me and you"
+            },
+            {
+                "id": 7,
+                "content": "How much does a corpse weigh? A skele-ton"
+            },
+            {
+                "id": 8,
+                "content": "Why did the tomato turn red? Because it saw the salad dressing!"
+            },
+            {
+                "id": 9,
+                "content": "I will do anything for a microwave that plays Europe's The Final Countdown during the last 30 seconds."
+            },
+            {
+                "id": 10,
+                "content": "Why did the chicken cross the playground? To get to the other slide!"
+            },
+            {
+                "id": 11,
+                "content": "What do you call a fake noodle? An impasta!"
+            },
+            {
+                "id": 12,
+                "content": "Why don't scientists trust atoms? Because they make up everything!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "prompt": [{
+            "id": 1,
+            "content": "i am joyful"
+        },{
+            "id": 2,
+            "content": "i am happy"
+        }],
+        "answers": [{
+            "id": 1,
+                "content": "That's wonderful! What's making you so happy today? I would like to hear the story!"
+            },
+            {
+            "id": 2,
+                "content": "I'm glad to hear that! What's been going well for you lately?"
+            },
+            {
+            "id": 3,
+                "content": "Yay! Keep the positive vibes going. What are you planning to do to celebrate?"
+            },
+            {
+            "id": 4,
+                "content": "That's fantastic news! Remember to hold onto this feeling and use it to motivate yourself in the days to come."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "prompt": "i am sad",
+        "answers": [{
+            "id": 1,
+                "content": "I'm sorry to hear that. Is there anything in particular that's causing you to feel sad?"
+            },
+            {
+            "id": 2,
+                "content": "I'm here to listen if you need someone to talk to. Would you like to share what's been on your mind?"
+            },
+            {
+            "id": 3,
+                "content": "I'm sorry to hear that. Remember to take care of yourself during this time, and don't hesitate to reach out for support from friends or loved ones."
+            },
+            {
+            "id": 3,
+                "content": "I'm sorry that you're going through a tough time. Remember that it's okay to take a break and focus on self-care when you're feeling down."
+            }
+        ]
+    },
+        {
+        "id": 5,
+        "prompt": "i am angry",
+        "answers": [
+            {
+                "id": 1,
+                "content": "I'm sorry you're feeling angry. Can you tell me what's been bothering you?"
+            },
+            {
+                "id": 2,
+                "content": "It's okay to feel angry, but please remember to take deep breaths and try to stay calm. Is there anything I can do to help?"
+            },
+            {
+                "id": 3,
+                "content": "I understand that you're upset, but please try to express your anger in a healthy way. Maybe taking a walk or talking to someone can help."
+            },
+            {
+                "id": 4,
+                "content": "I'm sorry if something I said or did made you angry. Can we talk about it and work on resolving the issue?"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "prompt": "i am scared",
+        "answers": [
+            {
+                "id": 1,
+                "content": "It's okay to feel scared. What can I do to help you feel more comfortable?"
+            },
+            {
+                "id": 2,
+                "content": "I'm here for you and I'll do my best to support you through this. What are you afraid of specifically?"
+            },
+            {
+                "id": 3,
+                "content": "Fear is a normal human emotion. Can you try to identify what's causing you to feel scared?"
+            },
+            {
+                "id": 4,
+                "content": "It's okay to take your time and process your fears. Is there anything I can do to support you while you work through this?"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "prompt": [{
+            "id": 1,
+            "content": "whoa! something is shocking today"
+        },{
+            "id": 2,
+            "content": "i am surprised"
+        }],
+        "answers": [
+            {
+                "id": 1,
+                "content": "Wow, that's unexpected! Can you tell me more about what happened?"
+            },
+            {
+                "id": 2,
+                "content": "I'm surprised too! Do you need a moment to process this or would you like to talk about it?"
+            },
+            {
+                "id": 3,
+                "content": "It's natural to feel surprised when something unexpected happens. Is there anything I can do to help you process your emotions?"
+            },
+            {
+                "id": 4,
+                "content": "I understand that you're feeling surprised right now. How can I best support you through this experience?"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "prompt": [{
+            "id": 1,
+            "content": "i do not feel anything"
+        },{
+            "id": 2,
+            "content": "i am neutral"
+        }],
+        "answers": [
+            {
+                "id": 1,
+                "content": "I'm here for you. Is there anything you'd like to talk about?"
+            },
+            {
+                "id": 2,
+                "content": "How are you feeling today? I'm here to listen."
+            },
+            {
+                "id": 3,
+                "content": "It's good to see you. How has your day been so far?"
+            },
+            {
+                "id": 4,
+                "content": "I hope you're doing well. Is there anything new or exciting happening in your life?"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "prompt": [{
+            "id": 1,
+            "content": "something disgusting today"
+        },{
+            "id": 2,
+            "content": "i am disgusted"
+        }],
+        "answers": [
+            {
+                "id": 1,
+                "content": "I'm sorry that you're feeling disgusted. Can you tell me more about what's causing that reaction?"
+            },
+            {
+                "id": 2,
+                "content": "Feeling disgusted is a valid emotional response. Would you like to talk about what's been bothering you?"
+            },
+            {
+                "id": 3,
+                "content": "I understand that you're feeling disgusted right now. Is there anything I can do to help you feel better?"
+            },
+            {
+                "id": 4,
+                "content": "I'm sorry if something I said or did made you feel disgusted. Can we talk about it and work on resolving the issue?"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "prompt": "happy_before_sad",
+        "answers": [{
+            "id": 1,
+            "content": "I'm sorry to hear that you're feeling sad now, especially after being happy earlier. Is there anything that happened that caused this shift in your mood?"
+        }]
+    },
+    {
+    "id": 11,
+        "prompt": [{
+            "id": 1,
+            "content": "what are you"
+        },
+        {
+            "id": 2,
+            "content": "who are you"
+        }],
+        "answers": [{
+            "id": 1,
+            "content": "I am an AI assistant designed to help with a variety of tasks and provide support capable of emotion detection. Is there anything in particular that you would like me to help you with today?"
+        },
+        {
+            "id": 2,
+            "content": "I am a digital assistant capable of analyzing emotions and providing psychotherapeutic advice. I'm here to listen and provide helpful insights, so feel free to share what's on your mind."
+        },
+        {
+            "id": 3,
+            "content": "I am an AI assistant that can help you understand and manage your emotions. If you're feeling overwhelmed or unsure about how to handle a situation, I'm here to offer guidance and support."
+        }]
+},
+    {
+    "id": 12,
+        "prompt": [{
+            "id": 1,
+            "content": "how are you"
+        }],
+        "answers": [{
+            "id": 1,
+            "content": "Hello there! I am very fine, thanks for asking! how about you?"
+        },
+        {
+            "id": 2,
+            "content": "Hello! I am great! what about you?"
+        },
+        {
+            "id": 3,
+            "content": "Hey! Thank you for asking me, I am good! what about you?"
+        }]
+},
+    {
+    "id": 13,
+        "prompt": [{
+            "id": 1,
+            "content": "I am fine too"
+        },
+        {
+            "id": 2,
+            "content": "I am good"
+        }],
+        "answers": [{
+            "id": 1,
+            "content": "Great to hear that! If you are feeling unwell, please tell me!"
+        },
+        {
+            "id": 2,
+            "content": "Good! Do you need any help?"
+        }]
+}
+]
