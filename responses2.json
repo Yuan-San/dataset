@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "prompt": [
+            "hello",
+            "hi"
+        ],
+        "answers": [
+            "Hello, How can i help you today?",
+            "Hey! What brings you today?",
+            "Oh hello! Do you need any help?"]
+        },
+    {
+        "id": 2,
+        "prompt": "tell me a joke",
+        "answers": [
+            "How do you know if your wine was made in the 90's? It smells like teen spirit.",
+            "What did the rock do when it rolled down the road? It rock and rolled.",
+            "Why was the musician arrested? He got in treble.",
+            "What does a sheep call a film it doesn't like? a baaahhhd movie.",
+            "Why does Facebook buys Instagram for one billion?? I mean, They could have downloaded it from the app store for free..",
+            "Now what's on the menu? Me and you",
+            "How much does a corpse weigh? A skele-ton",
+            "Why did the tomato turn red? Because it saw the salad dressing!",
+            "I will do anything for a microwave that plays Europe's The Final Countdown during the last 30 seconds.",
+            "Why did the chicken cross the playground? To get to the other slide!",
+            "What do you call a fake noodle? An impasta!",
+            "Why don't scientists trust atoms? Because they make up everything!"
+        ]
+    },
+    {
+        "id": 3,
+        "prompt": [
+            "i am joyful",
+            "i am happy"
+        ],
+        "answers": [
+            "That's wonderful! What's making you so happy today? I would like to hear the story!",
+            "I'm glad to hear that! What's been going well for you lately?",
+            "Yay! Keep the positive vibes going. What are you planning to do to celebrate?",
+            "That's fantastic news! Remember to hold onto this feeling and use it to motivate yourself in the days to come."
+        ]
+    },
+    {
+        "id": 4,
+        "prompt": "i am sad",
+        "answers": [
+            "I'm sorry to hear that. Is there anything in particular that's causing you to feel sad?",
+            "I'm here to listen if you need someone to talk to. Would you like to share what's been on your mind?",
+            "I'm sorry to hear that. Remember to take care of yourself during this time, and don't hesitate to reach out for support from friends or loved ones.",
+            "I'm sorry that you're going through a tough time. Remember that it's okay to take a break and focus on self-care when you're feeling down."
+        ]
+    },
+        {
+        "id": 5,
+        "prompt": "i am angry",
+        "answers": [
+            "I'm sorry you're feeling angry. Can you tell me what's been bothering you?",
+            "It's okay to feel angry, but please remember to take deep breaths and try to stay calm. Is there anything I can do to help?",
+            "I understand that you're upset, but please try to express your anger in a healthy way. Maybe taking a walk or talking to someone can help.",
+            "I'm sorry if something I said or did made you angry. Can we talk about it and work on resolving the issue?"
+        ]
+    },
+    {
+        "id": 6,
+        "prompt": "i am scared",
+        "answers": [
+            "It's okay to feel scared. What can I do to help you feel more comfortable?",
+            "I'm here for you and I'll do my best to support you through this. What are you afraid of specifically?",
+            "Fear is a normal human emotion. Can you try to identify what's causing you to feel scared?",
+            "It's okay to take your time and process your fears. Is there anything I can do to support you while you work through this?"
+        ]
+    },
+    {
+        "id": 7,
+        "prompt": [
+            "whoa! something is shocking today",
+            "i am surprised"
+        ],
+        "answers": [
+            "Wow, that's unexpected! Can you tell me more about what happened?",
+            "I'm surprised too! Do you need a moment to process this or would you like to talk about it?",
+            "It's natural to feel surprised when something unexpected happens. Is there anything I can do to help you process your emotions?",
+            "I understand that you're feeling surprised right now. How can I best support you through this experience?"
+        ]
+    },
+    {
+        "id": 8,
+        "prompt": [
+            "i do not feel anything",
+            "i am neutral"
+        ],
+        "answers": [
+            "I'm here for you. Is there anything you'd like to talk about?",
+            "How are you feeling today? I'm here to listen.",
+            "It's good to see you. How has your day been so far?",
+            "I hope you're doing well. Is there anything new or exciting happening in your life?"
+        ]
+    },
+    {
+        "id": 9,
+        "prompt": [
+            "something disgusting today",
+            "i am disgusted"
+        ],
+        "answers": [
+            "I'm sorry that you're feeling disgusted. Can you tell me more about what's causing that reaction?",
+            "Feeling disgusted is a valid emotional response. Would you like to talk about what's been bothering you?",
+            "I understand that you're feeling disgusted right now. Is there anything I can do to help you feel better?",
+            "I'm sorry if something I said or did made you feel disgusted. Can we talk about it and work on resolving the issue?"
+        ]
+    },
+    {
+        "id": 10,
+        "prompt": "happy_before_sad",
+        "answers": [
+            "I'm sorry to hear that you're feeling sad now, especially after being happy earlier. Is there anything that happened that caused this shift in your mood?"
+        ]
+    },
+    {
+    "id": 11,
+        "prompt": [
+            "what are you",
+            "who are you"],
+        "answers": [
+            "I am an AI assistant designed to help with a variety of tasks and provide support capable of emotion detection. Is there anything in particular that you would like me to help you with today?",
+            "I am a digital assistant capable of analyzing emotions and providing psychotherapeutic advice. I'm here to listen and provide helpful insights, so feel free to share what's on your mind.",
+            "I am an AI assistant that can help you understand and manage your emotions. If you're feeling overwhelmed or unsure about how to handle a situation, I'm here to offer guidance and support."
+        ]
+},
+    {
+    "id": 12,
+        "prompt": [
+            "how are you"
+        ],
+        "answers": [
+            "Hello there! I am very fine, thanks for asking! how about you?",
+            "Hello! I am great! what about you?",
+            "Hey! Thank you for asking me, I am good! what about you?"
+        ]
+},
+    {
+    "id": 13,
+        "prompt": [
+            "I am fine too",
+            "I am good"
+        ],
+        "answers": [
+            "Great to hear that! If you are feeling unwell, please tell me!",
+            "Good! Do you need any help?"
+        ]
+}
+]
